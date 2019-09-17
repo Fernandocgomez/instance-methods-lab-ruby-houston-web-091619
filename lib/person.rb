@@ -4,6 +4,6 @@ class Person
   end
   
   def wak 
-    puts ""
+    puts "The Person is walking"
   end
 end 
